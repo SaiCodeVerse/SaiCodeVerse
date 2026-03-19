@@ -8,8 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=👨‍💻+BSc+Computer+Science+Student;🔭+Passionate+Explorer+of+IT+Technologies;💡+Building+Real+Projects+From+Scratch;🌱+Continuous+Learner+%7C+Problem+Solver;🚀+Turning+Logic+Into+Reality+With+Code" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
 </div>
 
 ---
@@ -20,55 +18,35 @@
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-<br/>
-
-### 👋 Hello, World!
-
-I'm **Sai Mukesh Cindhe**, a driven and curious **BSc Computer Science** student from **Kurnool, Andhra Pradesh, India**.
-
-I am deeply passionate about **Information Technology** and everything it has to offer — from writing clean code in **C and Java**, to exploring the intelligence behind **Data Science**, and crafting experiences through **Web & App Development**.
-
-I believe that every great developer starts with one thing — **curiosity**. And mine has never stopped.
-
-<br/>
-
-> *"Code is not just syntax — it's the language of ideas."*
-
-<br/>
-
-</td>
-<td width="45%" align="center" valign="top">
-
-<br/>
+<div align="center">
 
 ```yaml
-╔══════════════════════════════╗
-  👤  Sai Mukesh Cindhe
-  🎓  BSc Computer Science
-  📌  Kurnool, Andhra Pradesh
-  🇮🇳  India
-  📚  Currently Pursuing
-  💼  Open to Collaborations
-  🎯  Goal: Build & Innovate
-  ⚡  Motto: Learn → Build → Grow
-╚══════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════╗
+   👤  Name       :  Sai Mukesh Cindhe
+   🎓  Degree     :  BSc Computer Science  (Currently Pursuing)
+   📌  Location   :  Kurnool, Andhra Pradesh, India 🇮🇳
+   💡  Passion    :  IT Technologies, Problem Solving & Innovation
+   🔭  Exploring  :  Web Dev • Data Science • App Dev • Systems
+   💼  Open To    :  Collaborations, Projects & Opportunities
+   ⚡  Motto      :  Learn → Build → Share → Grow → Repeat 🚀
+╚═══════════════════════════════════════════════════════════════╝
 ```
+
+</div>
 
 <br/>
 
-</td>
-</tr>
-</table>
+<p align="center">
+I'm a driven and curious <b>BSc Computer Science</b> student from <b>Kurnool, Andhra Pradesh</b>, deeply passionate about <b>Information Technology</b> and everything it offers. From writing efficient code in <b>C and Python</b>, understanding systems through <b>Microprocessors and Digital Logic</b>, to exploring intelligence via <b>Data Science</b> — I embrace every layer of computing. I believe great developers are built on <b>curiosity, consistency, and the courage to build</b>.
+</p>
+
+<br/>
 
 ---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ &nbsp; Tech Stack & Skills
+## 🛠️ &nbsp; Skills & Tech Stack
 
 <br/>
 
@@ -79,33 +57,41 @@ I believe that every great developer starts with one thing — **curiosity**. An
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=003366"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=7A4500"/>
-&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a3a5c"/>
 </p>
 
 <br/>
 
-### 🗄️ &nbsp; Database Technologies
+### 🧱 &nbsp; Core Programming Concepts
 
 <p>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a2a4a"/>
+<img src="https://img.shields.io/badge/OOP%20using%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=7A4500"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=003355"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge&logo=databricks&logoColor=white&labelColor=6B2E00"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20using%20C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=003366"/>
 </p>
 
 <br/>
 
-### 📚 &nbsp; Core Computer Science
+### 🖥️ &nbsp; Computer Science Subjects
 
 <p>
+<img src="https://img.shields.io/badge/Digital%20Logic%20Design-6D28D9?style=for-the-badge&logo=circuit-assembly&logoColor=white&labelColor=3B0764"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Microprocessors-374151?style=for-the-badge&logo=intel&logoColor=white&labelColor=111827"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DC%20%26%20CN-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white&labelColor=0C4A6E"/>
+</p>
+
+<br/>
+
+### 🗄️ &nbsp; Database & Software Engineering
+
+<p>
+<img src="https://img.shields.io/badge/DBMS-FF6F00?style=for-the-badge&logo=databricks&logoColor=white&labelColor=6B2E00"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=003355"/>
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/OOSE-7C3AED?style=for-the-badge&logo=buffer&logoColor=white&labelColor=4C1D95"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Data%20Science-0EA5E9?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0C4A6E"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/System%20Programming-374151?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827"/>
 </p>
 
 <br/>
@@ -188,13 +174,14 @@ I believe that every great developer starts with one thing — **curiosity**. An
 
 <div align="center">
 
-| 🔍 Area | 📖 Topics |
-|--------|-----------|
+| 🔍 Area | 📖 What I'm Learning |
+|--------|----------------------|
 | 🌐 Web Development | HTML5, CSS3, JavaScript, Responsive Design |
 | 📊 Python for Data Science | NumPy, Pandas, Matplotlib, Data Analysis |
-| ☕ Java & OOSE | OOP, Design Patterns, UML Diagrams |
-| 🗃️ Advanced Database | MySQL Optimization, Joins, Stored Procedures |
-| ⚙️ System Programming | Memory Management, Pointers, File I/O in C |
+| ☕ OOP using Java | Design Patterns, Inheritance, Abstraction |
+| 🧩 Data Structures | Arrays, Linked Lists, Trees, Sorting in C |
+| 🗃️ DBMS & MySQL | Advanced Queries, Joins, Normalization |
+| 📡 DC & Computer Networks | Protocols, OSI Model, TCP/IP |
 | 📱 App Development | Exploring Mobile & Web App Frameworks |
 
 </div>
